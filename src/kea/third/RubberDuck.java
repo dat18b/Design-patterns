@@ -11,6 +11,6 @@ public class RubberDuck extends Duck {
     }
 
     public void fly(){
-
+        // do nothing i can´t fly
     }
 }
