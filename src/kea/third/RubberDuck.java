@@ -5,7 +5,6 @@ public class RubberDuck extends Duck {
         System.out.println("Im a Rubber Duck can you see me?");
     }
 
-    @Override
     public void quack(){
         System.out.println("I am a Rubber Duck, i am Squeaking");
     }
